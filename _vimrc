@@ -121,6 +121,11 @@ let NERDChristmasTree=1
 map <F11> <Esc>:call libcallnr("gvimfullscreen.dll", "ToggleFullScreen", 0)<CR> 
 imap <F11> :call libcallnr(“gvimfullscreen.dll”, “ToggleFullScreen”, 0)<CR>
 
+""""""""""""""""""""""""""""""
+" php语法检查
+""""""""""""""""""""""""""""""
+map <F5> :!php -l %<CR> 
+map <F6> :!php %<CR> 
 
 
 
