@@ -1,0 +1,10 @@
+{
+    "name": "dilei/win_vim",
+    "authors": [
+        {
+            "name": "dilei",
+            "email": "dilei@dangdang.com"
+        }
+    ],
+    "require": {}
+}
